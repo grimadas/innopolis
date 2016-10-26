@@ -14,6 +14,6 @@ Crfsuite requires a special file format. Python file: pos_feature.py - is format
 
 ## Credits
 
-Second assignment of NLP course.
+Second assignment of NLP course (http://www.derczynski.com/sheffield/teaching.html).
 
 Full description is presented in pdf file
