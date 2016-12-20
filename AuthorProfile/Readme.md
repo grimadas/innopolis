@@ -5,19 +5,20 @@ The language of the blogs: English
 
 ## Dependencies
 
-- nltk, keras, gensim, seaborn 
+- nltk, keras, gensim, seaborn, scikit-learn
 - Python3
 
 ## Basic Usage
 
-Run LangID.ipynb 
-Crfsuite requires a special file format. Python file: pos_feature.py - is formating input file into input format for crfsuite.  The features are specified in the python file.
+Run GenId.ipynb for Gender Identification with BOW, Doc2Vec and scikit-learn methods. 
 
-- Run 'sh run.sh' - for training and testing POS tagging on Twitter dataset (pos_train.conll, pos_test.conll)
-- Run 'sh rus_run.sh' - for training and testing POS tagging on Russian LifeJournal dataset (pos_train.conll, pos_test.conll)
+Run Blogs_Class for Age Identification with BOW, Doc2Vec and scikit-learn methods. 
+
+Run Keras_gender.ipynb for Deep learning model of author's profiling. 
+
 
 ## Credits
 
-Second assignment of NLP course (http://www.derczynski.com/sheffield/teaching.html).
+Assignment of NLP course (http://www.derczynski.com/sheffield/teaching.html).
 
 Full description is presented in pdf file
