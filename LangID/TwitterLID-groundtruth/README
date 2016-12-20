@@ -1,0 +1,18 @@
+This directory contains a development set, a training set, and a
+test set for Language Identification on Twitter on five languages:
+English, Dutch, French, German, and Spanish.
+
+ ground-truth.dev -- Development set
+ ground-truth.trn -- Training set
+ ground-truth.tst -- Testing set
+
+
+If you use this dataset, please cite the paper: 
+
+Simon Carter, Wouter Weerkamp, and Manos Tsagkias: Microblog
+Language Identification: Overcoming the Limitations of Short,
+Unedited and Idiomatic Text. In Language Resources and Evaluation
+Journal, 2012.
+
+This dataset comes from:
+http://ilps.science.uva.nl/resources/twitterlid
